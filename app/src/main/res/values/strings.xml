@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ancor_task_1</string>
+    <string name="country_name">Location</string>
+    <string name="diameter">Diameter</string>
+    <string name="diameter_under_bed">Diameter under bed</string>
+    <string name="max_length">Max. length</string>
+    <string name="condition">Condition</string>
+</resources>
